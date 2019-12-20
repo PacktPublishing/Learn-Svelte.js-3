@@ -14,7 +14,7 @@ Learn Svelte.js 3, Published by Packt
     * 10 - Destructuring
     * 11 - setup using degit
 
-### Chapter 1 - Components in Svelte.js
+### Chapter 2 - Components in Svelte.js
     * 01 - First svelte component
     * 02 - Adding data and it manipulation using string methods
     * 03 - Adding data and it manipulation using date methods
