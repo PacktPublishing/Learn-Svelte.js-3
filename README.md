@@ -25,3 +25,13 @@ Learn Svelte.js 3, Published by Packt
     * 08 - Normal CSS demo in svelte
     * 09 - CSS preporcessor SASS demo in svelte
     * 10 - CSS-in-JS demo using Emotion in svelte
+
+### Chapter 3 - A Closer look at Reactivity and Props
+    * 01 - Problem without reactivity in JavaScript
+    * 02 - Reactivity in Svelte
+    * 03 - Reactive declaration
+    * 04 - Reactive Statements
+    * 05 - Reactivity with Arrays in Svelte
+    * 06 - Import and export in Javascript
+    * 07 - Svelte component nesting
+    * 08 - Parent to Child component communication using props
