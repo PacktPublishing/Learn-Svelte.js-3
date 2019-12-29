@@ -1,12 +1,14 @@
 # Learn-Svelte.js-3
+
 Learn Svelte.js 3, Published by Packt
 
 ### Chapter 1 - Up and Running with Svelte.js
+
     * 01 - Variable and scope
     * 02 - Hoisting
     * 03 - let keyword
     * 04 - const keyword
-    * 05 - Template literals 
+    * 05 - Template literals
     * 06 - string interpolation
     * 07 - Arrow function
     * 08 - Spread operataor
@@ -15,6 +17,7 @@ Learn Svelte.js 3, Published by Packt
     * 11 - setup using degit
 
 ### Chapter 2 - Components in Svelte.js
+
     * 01 - First svelte component
     * 02 - Adding data and it manipulation using string methods
     * 03 - Adding data and it manipulation using date methods
@@ -27,6 +30,7 @@ Learn Svelte.js 3, Published by Packt
     * 10 - CSS-in-JS demo using Emotion in svelte
 
 ### Chapter 3 - A Closer look at Reactivity and Props
+
     * 01 - Problem without reactivity in JavaScript
     * 02 - Reactivity in Svelte
     * 03 - Reactive declaration
@@ -35,3 +39,14 @@ Learn Svelte.js 3, Published by Packt
     * 06 - Import and export in Javascript
     * 07 - Svelte component nesting
     * 08 - Parent to Child component communication using props
+
+### Chapter 4 - Conditional Logics and Looping
+
+    * 01 - If Statement In JavasScript
+    * 02 - If Statement In HTML
+    * 03 - Else Statement In JavasScript
+    * 04 - Else Statement In HTML
+    * 05 - Else If Statement In JavasScript
+    * 06 - Ternary operator
+    * 07 - each loop
+    * 08 - each loop with unique identifier
