@@ -50,3 +50,15 @@ Learn Svelte.js 3, Published by Packt
     * 06 - Ternary operator
     * 07 - each loop
     * 08 - each loop with unique identifier
+
+### Chapter 4 - Events in Svelte
+    * 01 - Click Event in svelte
+    * 02 - keyup Event in svelte
+    * 03 - change Event in svelte
+    * 04 - Focus and Blur Event in svelte
+    * 05 - Inline Event Handler
+    * 06 - preventDefault event modifier
+    * 07 - stopPropagation event modifier
+    * 08 - once event modifier
+    * 09 - Child to Parent Communication 
+    * 10 - Event Forwading 
