@@ -51,7 +51,7 @@ Learn Svelte.js 3, Published by Packt
     * 07 - each loop
     * 08 - each loop with unique identifier
 
-### Chapter 4 - Events in Svelte
+### Chapter 5 - Events in Svelte
     * 01 - Click Event in svelte
     * 02 - keyup Event in svelte
     * 03 - change Event in svelte
