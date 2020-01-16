@@ -52,6 +52,7 @@ Learn Svelte.js 3, Published by Packt
     * 08 - each loop with unique identifier
 
 ### Chapter 5 - Events in Svelte
+
     * 01 - Click Event in svelte
     * 02 - keyup Event in svelte
     * 03 - change Event in svelte
@@ -60,5 +61,21 @@ Learn Svelte.js 3, Published by Packt
     * 06 - preventDefault event modifier
     * 07 - stopPropagation event modifier
     * 08 - once event modifier
-    * 09 - Child to Parent Communication 
-    * 10 - Event Forwading 
+    * 09 - Child to Parent Communication
+    * 10 - Event Forwading
+
+### Chapter 6 - Forms and its Bindings
+
+    * 01 - Text input element demo
+    * 02 - Text input element bindings
+    * 03 - Number input element demo
+    * 04 - Number input element bindings
+    * 05 - Checkbox checked bindings
+    * 06 - Radio and checkbox group bindings
+    * 07 - Contenteditable innerHTML binding
+    * 08 - Contenteditable textContent binding
+    * 09 - Media element currentTime binding
+    * 10 - Media element volume and paused binding
+    * 11 - Element dimensions bindings
+    * 12 - Component bindings
+    * 13 - Form validation and submission
