@@ -79,3 +79,11 @@ Learn Svelte.js 3, Published by Packt
     * 11 - Element dimensions bindings
     * 12 - Component bindings
     * 13 - Form validation and submission
+
+### Chapter 7 - Svelte Component Lifecycle
+
+    * 01 - Fetch API
+    * 02 - onMount lifecycle
+    * 03 - onDestroy lifecycle
+    * 04 - beforeUpdate and afterUpdate lifecycle
+    * 05 - tick lifecycle
